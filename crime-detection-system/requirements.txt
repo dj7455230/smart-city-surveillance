@@ -1,0 +1,55 @@
+# ── Core Framework ────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn==0.29.0
+python-dotenv==1.0.1
+python-multipart==0.0.9
+aiofiles==23.2.1
+httpx==0.27.0
+requests==2.32.2
+pydantic==2.7.1
+websockets==12.0
+
+# ── AI / Computer Vision ──────────────────────────────────────────
+ultralytics==8.2.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.3.0
+torch==2.3.0
+torchvision==0.18.0
+
+# ── Face Recognition ──────────────────────────────────────────────
+deepface==0.0.93
+tf-keras==2.16.0
+
+# ── Number Plate OCR ──────────────────────────────────────────────
+easyocr==1.7.1
+
+# ── Audio Detection ───────────────────────────────────────────────
+tensorflow==2.16.1
+tensorflow-hub==0.16.1
+librosa==0.10.2
+sounddevice==0.4.7
+scipy==1.13.1
+
+# ── Database ──────────────────────────────────────────────────────
+sqlalchemy==2.0.30
+aiosqlite==0.20.0
+
+# ── Alert Channels ────────────────────────────────────────────────
+python-telegram-bot==21.3
+twilio==9.2.3
+
+# ── Maps / Geo ────────────────────────────────────────────────────
+folium==0.16.0
+geopy==2.4.1
+
+# ── Crypto / Evidence Integrity ───────────────────────────────────
+cryptography==42.0.8
+
+# ── ML / Prediction ───────────────────────────────────────────────
+scikit-learn==1.5.0
+pandas==2.2.2
+
+# ── Utilities ─────────────────────────────────────────────────────
+smtplib2==0.2.1
+hashlib2==1.0.0

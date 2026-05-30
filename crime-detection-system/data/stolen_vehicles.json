@@ -1,0 +1,46 @@
+{
+  "stolen_vehicles": [
+    {
+      "plate": "DL01AB1234",
+      "vehicle": "Honda City",
+      "color": "White",
+      "reported": "2024-01-15"
+    },
+    {
+      "plate": "MH12XY5678",
+      "vehicle": "Toyota Innova",
+      "color": "Black",
+      "reported": "2024-02-20"
+    },
+    {
+      "plate": "UP32CD9012",
+      "vehicle": "Maruti Swift",
+      "color": "Red",
+      "reported": "2024-03-10"
+    },
+    {
+      "plate": "KA05EF3456",
+      "vehicle": "Hyundai i20",
+      "color": "Blue",
+      "reported": "2024-04-05"
+    },
+    {
+      "plate": "TN09GH7890",
+      "vehicle": "Tata Nexon",
+      "color": "Grey",
+      "reported": "2024-05-01"
+    }
+  ],
+  "wanted_vehicles": [
+    {
+      "plate": "RJ14IJ2345",
+      "reason": "Robbery suspect",
+      "priority": "HIGH"
+    },
+    {
+      "plate": "GJ01KL6789",
+      "reason": "Drug trafficking",
+      "priority": "CRITICAL"
+    }
+  ]
+}
